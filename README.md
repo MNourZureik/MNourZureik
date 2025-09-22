@@ -1,5 +1,17 @@
 # 💫 About Me:
-AI and Software Engineer with strong skills in Python, Machine Learning, and Flutter.<br>Experienced in back-end development, predictive modeling, and building practical applications.<br>Passionate about problem-solving, clean code, and creating impactful technology solutions.
+I’m Mohamad Nour Zureik, a passionate AI & Software Engineer with a strong foundation in building diverse applications—from game development and interactive UIs to machine learning models and full-stack systems. I thrive on solving complex problems and turning ideas into working products.
+
+Some highlights of what I do:
+
+Full-stack & frontend development: I’ve built apps using Dart (Flutter), JavaScript, and C#, including e-commerce applications and interactive game UIs.
+
+AI / Machine Learning: I enjoy working on regression & classification projects (linear, logistic), predictive modeling (e.g. house price prediction, cancer detection), and applying gradient descent and other optimization techniques.
+
+Algorithms & systems: I’ve developed algorithm-heavy projects (search algorithms, path finding, compilers) and lower-level / graphics-oriented work (OpenGL, virtual reality simulation).
+
+Versatility: I work across languages (Python, Java, C++, etc.), domains, and project types, which helps me adapt quickly and learn continuously.
+
+I believe in clean, well-documented code, and I enjoy collaborating in teams as much as I do digging into solo challenges. Always striving to improve, explore new tech, and contribute real value.
 
 
 ## 🌐 Socials:
