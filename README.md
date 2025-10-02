@@ -44,7 +44,7 @@ I’m Mohamad Nour Zureik, an AI & Software Engineer passionate about building i
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive%20Code-0A66C2?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Design-0A66C2?style=for-the-badge&logo=responsive&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-Compatible-34A853?style=for-the-badge&logo=google&logoColor=white)
 
 
